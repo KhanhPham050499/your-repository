@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quanlydiem/static/css/main.9131b19f.chunk.css",
+    "main.js": "/quanlydiem/static/js/main.b5b9ce92.chunk.js",
+    "main.js.map": "/quanlydiem/static/js/main.b5b9ce92.chunk.js.map",
+    "runtime-main.js": "/quanlydiem/static/js/runtime-main.a197365d.js",
+    "runtime-main.js.map": "/quanlydiem/static/js/runtime-main.a197365d.js.map",
+    "static/js/2.284438f0.chunk.js": "/quanlydiem/static/js/2.284438f0.chunk.js",
+    "static/js/2.284438f0.chunk.js.map": "/quanlydiem/static/js/2.284438f0.chunk.js.map",
+    "index.html": "/quanlydiem/index.html",
+    "precache-manifest.ada44f37679dc1f73fda3052c3404306.js": "/quanlydiem/precache-manifest.ada44f37679dc1f73fda3052c3404306.js",
+    "service-worker.js": "/quanlydiem/service-worker.js",
+    "static/css/main.9131b19f.chunk.css.map": "/quanlydiem/static/css/main.9131b19f.chunk.css.map",
+    "static/js/2.284438f0.chunk.js.LICENSE.txt": "/quanlydiem/static/js/2.284438f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a197365d.js",
+    "static/js/2.284438f0.chunk.js",
+    "static/css/main.9131b19f.chunk.css",
+    "static/js/main.b5b9ce92.chunk.js"
+  ]
+}
